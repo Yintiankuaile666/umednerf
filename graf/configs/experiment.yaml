@@ -1,0 +1,6 @@
+expname: knee_all_360
+data:
+  datadir: data/mednerf_drr_dataset/knee_xrays
+  imsize: 128
+training:
+  nworkers: 0
